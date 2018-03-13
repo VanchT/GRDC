@@ -1,7 +1,8 @@
-package com.ivantolkachov.gloredisy
+package com.ivantolkachov.gloredisy.view
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.ivantolkachov.gloredisy.R
 
 class MainActivity : AppCompatActivity() {
 
